@@ -1,0 +1,8 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.privacyLeaks.AccessorCompromise_PrivateVariables"><rhs name\="com.privacyLeaks.AccessorCompromise_PrivateVariables"/></lhs><lhs name\="com.tables.my_java_school.Department"><rhs name\="com.tables.my_java_school.Department"/></lhs><lhs name\="com.tables.my_java_school.Student"><rhs name\="com.tables.my_java_school.Student"/></lhs><lhs name\="com.tables.my_java_school.Employee"><rhs name\="com.tables.my_java_school.Employee"/></lhs><lhs name\="test.SampleMenu"><rhs name\="test.SampleMenu"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=17
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

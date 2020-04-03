@@ -1,0 +1,26 @@
+package com.personal.ArrayLists;
+
+import java.util.ArrayList;
+
+public class firstTrial_ArrayList {
+
+	public firstTrial_ArrayList() {
+		// TODO Auto-generated constructor stub
+	}
+	public static void main(String[] args) {
+		
+		ArrayList<String> list = new ArrayList<String>(5);
+		list.add("My");
+		list.add("name");
+		list.add("is");
+		list.add("Godfred");
+		list.add("Asuman");
+		list.add(0, "Ok,");
+		list.add(7, "Hello");
+		for(int i = 0; i <=7; i++) {
+			System.out.print(list.get(i) + " ");
+		}
+		System.out.println("\nThe size of my array list is now: " + list.size());
+	}
+
+}
